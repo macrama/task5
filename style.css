@@ -1,0 +1,17 @@
+body{
+    font-family:"Century Gothic", Calibri, serif;
+}
+.anima{
+    width: 100px;
+    height: 100px
+    margin:25px;
+    transform:rotateX(150deg);
+    color:white;
+}
+.anim{
+    width:100px;
+    height: 100px;
+    margin: 25px;
+    transform:rotateY(150deg);
+    color:white;
+}
